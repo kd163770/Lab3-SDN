@@ -1,0 +1,46 @@
+.card{
+    width: 100%;
+}
+
+.card-img-top{
+    width: 100%;
+}
+
+.card-body{
+    text-align: left;
+}
+
+#productname{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+#gia{
+    font-size: 30px;
+    color: red;
+    font-weight: bold;
+}
+
+
+#name{
+    font-size: 40px;
+}
+#main-image{
+    width: 80%;
+    height: auto;
+}
+
+.pagging-img{
+    margin-top: 20px;
+    width: 40px;
+    height: 40px;
+    margin-right: 30px;
+}
+.pagging-img:hover{
+    cursor: pointer;
+}
+
+#addcomment{
+    width: 300px;
+}
